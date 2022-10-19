@@ -1,0 +1,22 @@
+{
+  "name": "entorno",
+  "version": "1.0.0",
+  "description": "Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juan3728825/entorno.git"
+  },
+  "author": "Juan Manuel Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juan3728825/entorno/issues"
+  },
+  "homepage": "https://github.com/Juan3728825/entorno#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
